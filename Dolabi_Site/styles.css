@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #2f3b52;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.promo-bar {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.promo-bar .close {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+input {
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px;
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
